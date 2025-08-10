@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\bin\Debug\net8.0\MyCollectionsApp.exe
+C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\bin\Debug\net8.0\MyCollectionsApp.deps.json
+C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\bin\Debug\net8.0\MyCollectionsApp.runtimeconfig.json
+C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\bin\Debug\net8.0\MyCollectionsApp.dll
+C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\bin\Debug\net8.0\MyCollectionsApp.pdb
+C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\obj\Debug\net8.0\MyCollectionsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\obj\Debug\net8.0\MyCollectionsApp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\obj\Debug\net8.0\MyCollectionsApp.AssemblyInfo.cs
+C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\obj\Debug\net8.0\MyCollectionsApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\obj\Debug\net8.0\MyCollectionsApp.dll
+C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\obj\Debug\net8.0\refint\MyCollectionsApp.dll
+C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\obj\Debug\net8.0\MyCollectionsApp.pdb
+C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\obj\Debug\net8.0\MyCollectionsApp.genruntimeconfig.cache
+C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\obj\Debug\net8.0\ref\MyCollectionsApp.dll

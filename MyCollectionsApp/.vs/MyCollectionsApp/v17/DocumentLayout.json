@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|c:\\users\\admin\\desktop\\code\\mycollectionsapp\\mycollectionsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|solutionrelative:mycollectionsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|c:\\users\\admin\\desktop\\code\\mycollectionsapp\\mycollectionsapp\\extensionmethodsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|solutionrelative:mycollectionsapp\\extensionmethodsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|c:\\users\\admin\\desktop\\code\\mycollectionsapp\\mycollectionsapp\\typesofdelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|solutionrelative:mycollectionsapp\\typesofdelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|c:\\users\\admin\\desktop\\code\\mycollectionsapp\\mycollectionsapp\\genericdelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|solutionrelative:mycollectionsapp\\genericdelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|c:\\users\\admin\\desktop\\code\\mycollectionsapp\\mycollectionsapp\\delegates1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|solutionrelative:mycollectionsapp\\delegates1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|c:\\users\\admin\\desktop\\code\\mycollectionsapp\\mycollectionsapp\\mysortedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|solutionrelative:mycollectionsapp\\mysortedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|c:\\users\\admin\\desktop\\code\\mycollectionsapp\\mycollectionsapp\\linqstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|solutionrelative:mycollectionsapp\\linqstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|c:\\users\\admin\\desktop\\code\\mycollectionsapp\\mycollectionsapp\\linqproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|solutionrelative:mycollectionsapp\\linqproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|c:\\users\\admin\\desktop\\code\\mycollectionsapp\\mycollectionsapp\\basiclinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|solutionrelative:mycollectionsapp\\basiclinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|c:\\users\\admin\\desktop\\code\\mycollectionsapp\\mycollectionsapp\\processeventdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|solutionrelative:mycollectionsapp\\processeventdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|c:\\users\\admin\\desktop\\code\\mycollectionsapp\\mycollectionsapp\\processbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F420C884-1841-417D-82E7-B0120BDDE6F2}|MyCollectionsApp\\MyCollectionsApp.csproj|solutionrelative:mycollectionsapp\\processbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtensionMethodsClass.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\ExtensionMethodsClass.cs",
+              "RelativeDocumentMoniker": "MyCollectionsApp\\ExtensionMethodsClass.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\ExtensionMethodsClass.cs",
+              "RelativeToolTip": "MyCollectionsApp\\ExtensionMethodsClass.cs",
+              "ViewState": "AQIAABEAAABANr6dk7krwBUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T06:55:07.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypesOfDelegates.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\TypesOfDelegates.cs",
+              "RelativeDocumentMoniker": "MyCollectionsApp\\TypesOfDelegates.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\TypesOfDelegates.cs",
+              "RelativeToolTip": "MyCollectionsApp\\TypesOfDelegates.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T06:29:45.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericDelegates.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\GenericDelegates.cs",
+              "RelativeDocumentMoniker": "MyCollectionsApp\\GenericDelegates.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\GenericDelegates.cs",
+              "RelativeToolTip": "MyCollectionsApp\\GenericDelegates.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T06:11:33.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delegates1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\Delegates1.cs",
+              "RelativeDocumentMoniker": "MyCollectionsApp\\Delegates1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\Delegates1.cs",
+              "RelativeToolTip": "MyCollectionsApp\\Delegates1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T20:20:40.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyCollectionsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\Program.cs",
+              "RelativeToolTip": "MyCollectionsApp\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAMwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:55:48.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProcessEventData.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\ProcessEventData.cs",
+              "RelativeDocumentMoniker": "MyCollectionsApp\\ProcessEventData.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\ProcessEventData.cs",
+              "RelativeToolTip": "MyCollectionsApp\\ProcessEventData.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T05:05:12.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasicLinq.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\BasicLinq.cs",
+              "RelativeDocumentMoniker": "MyCollectionsApp\\BasicLinq.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\BasicLinq.cs",
+              "RelativeToolTip": "MyCollectionsApp\\BasicLinq.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvxgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:27:59.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LinqProject.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\LinqProject.cs",
+              "RelativeDocumentMoniker": "MyCollectionsApp\\LinqProject.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\LinqProject.cs",
+              "RelativeToolTip": "MyCollectionsApp\\LinqProject.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:50:21.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MySortedList.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\MySortedList.cs",
+              "RelativeDocumentMoniker": "MyCollectionsApp\\MySortedList.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\MySortedList.cs",
+              "RelativeToolTip": "MyCollectionsApp\\MySortedList.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAiwEcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T13:25:37.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LinqStudent.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\LinqStudent.cs",
+              "RelativeDocumentMoniker": "MyCollectionsApp\\LinqStudent.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\LinqStudent.cs",
+              "RelativeToolTip": "MyCollectionsApp\\LinqStudent.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:23:32.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProcessBusinessLogic.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\ProcessBusinessLogic.cs",
+              "RelativeDocumentMoniker": "MyCollectionsApp\\ProcessBusinessLogic.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\MyCollectionsApp\\MyCollectionsApp\\ProcessBusinessLogic.cs",
+              "RelativeToolTip": "MyCollectionsApp\\ProcessBusinessLogic.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T04:31:12.778Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

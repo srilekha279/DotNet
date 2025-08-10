@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\code\\MyFirstConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5620732D-BF71-4E05-91FB-C5714419BA11}|ConsoleApp2\\CollectionsApp.csproj|c:\\users\\admin\\desktop\\code\\myfirstconsoleapp\\consoleapp2\\myexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5620732D-BF71-4E05-91FB-C5714419BA11}|ConsoleApp2\\CollectionsApp.csproj|solutionrelative:consoleapp2\\myexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5620732D-BF71-4E05-91FB-C5714419BA11}|ConsoleApp2\\CollectionsApp.csproj|c:\\users\\admin\\desktop\\code\\myfirstconsoleapp\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5620732D-BF71-4E05-91FB-C5714419BA11}|ConsoleApp2\\CollectionsApp.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\MyFirstConsoleApp\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\MyFirstConsoleApp\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T17:53:28.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\MyFirstConsoleApp\\ConsoleApp2\\MyExceptions.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\MyExceptions.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\MyFirstConsoleApp\\ConsoleApp2\\MyExceptions.cs",
+              "RelativeToolTip": "ConsoleApp2\\MyExceptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T05:24:35.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
