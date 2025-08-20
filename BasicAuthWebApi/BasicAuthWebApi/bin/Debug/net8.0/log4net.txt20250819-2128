@@ -1,0 +1,3 @@
+2025-08-19 21:28:33,008 WARN  BasicAuthWebApi.Controllers.WeatherForecastController.Get [0] - MESSAGE: warning log
+2025-08-19 21:28:33,074 ERROR BasicAuthWebApi.Controllers.WeatherForecastController.Get [0] - MESSAGE: error log
+2025-08-19 21:28:33,075 FATAL BasicAuthWebApi.Controllers.WeatherForecastController.Get [0] - MESSAGE: critical log

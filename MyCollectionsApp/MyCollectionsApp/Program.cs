@@ -42,10 +42,10 @@ namespace MyCollectionsApp
             //deltypes.Execute();
 
             //extension methods - these can be applied anywhere using namespace in which extension method or class is present- here, file in which we are using extension method and the implementation of extension method are in same namespace.
-            string str = "1234";
-            int result = str.IntegerExtension();
-            Console.WriteLine(result);
-            Console.WriteLine("hello everyone".GetWordCount());
+            //string str = "1234";
+            //int result = str.IntegerExtension();
+            //Console.WriteLine(result);
+            //Console.WriteLine("hello everyone".GetWordCount());
 
 
             StudentClassList stu = new StudentClassList();
@@ -55,11 +55,14 @@ namespace MyCollectionsApp
             // MySubscriber.SubProcess();
             // Exec.execute();
 
-          //  BasicLinq blq = new BasicLinq();
+            //  BasicLinq blq = new BasicLinq();
             // blq.LinqBasics();
 
-            
-           // LinqProgram.WorkWithLinq();
+
+            // LinqProgram.WorkWithLinq();
+            LinqProgram lp = new LinqProgram();
+            //lp.SelectManyLinq();
+            lp.MoreLinq();
         }
     }
 }

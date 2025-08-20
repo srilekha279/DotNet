@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapp\\aspnetcorewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|solutionrelative:aspnetcorewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapp\\aspnetcorewebapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|solutionrelative:aspnetcorewebapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapp\\aspnetcorewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|solutionrelative:aspnetcorewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapp\\aspnetcorewebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|solutionrelative:aspnetcorewebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapp\\aspnetcorewebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|solutionrelative:aspnetcorewebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapp\\aspnetcorewebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|solutionrelative:aspnetcorewebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapp\\aspnetcorewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|solutionrelative:aspnetcorewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapp\\aspnetcorewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|solutionrelative:aspnetcorewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapp\\aspnetcorewebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|solutionrelative:aspnetcorewebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapp\\aspnetcorewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{884102EB-0302-45F1-A01A-1BBB29558691}|AspNetCoreWebApp\\AspNetCoreWebApp.csproj|solutionrelative:aspnetcorewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AspNetCoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T06:09:08.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreWebApp\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "AspNetCoreWebApp\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T06:06:11.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreWebApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AspNetCoreWebApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T05:56:25.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspNetCoreWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwDAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:27:58.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreWebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AspNetCoreWebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T05:56:22.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreWebApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AspNetCoreWebApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T05:55:17.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Program.cs",
+              "RelativeToolTip": "AspNetCoreWebApp\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:28:40.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T05:54:49.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AspNetCoreWebApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:28:25.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AspNetCoreWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AspNetCoreWebApp\\AspNetCoreWebApp\\appsettings.json",
+              "RelativeToolTip": "AspNetCoreWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-20T05:28:16.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|c:\\users\\admin\\desktop\\code\\efdbcodefirstapproach\\efdbcodefirstapproach\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|solutionrelative:efdbcodefirstapproach\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|c:\\users\\admin\\desktop\\code\\efdbcodefirstapproach\\efdbcodefirstapproach\\dto\\stdwithgradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|solutionrelative:efdbcodefirstapproach\\dto\\stdwithgradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|c:\\users\\admin\\desktop\\code\\efdbcodefirstapproach\\efdbcodefirstapproach\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|solutionrelative:efdbcodefirstapproach\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|c:\\users\\admin\\desktop\\code\\efdbcodefirstapproach\\efdbcodefirstapproach\\efdbcodefirstapproach.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|solutionrelative:efdbcodefirstapproach\\efdbcodefirstapproach.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|c:\\users\\admin\\desktop\\code\\efdbcodefirstapproach\\efdbcodefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|solutionrelative:efdbcodefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|c:\\users\\admin\\desktop\\code\\efdbcodefirstapproach\\efdbcodefirstapproach\\services\\schooldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|solutionrelative:efdbcodefirstapproach\\services\\schooldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|c:\\users\\admin\\desktop\\code\\efdbcodefirstapproach\\efdbcodefirstapproach\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|solutionrelative:efdbcodefirstapproach\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|c:\\users\\admin\\desktop\\code\\efdbcodefirstapproach\\efdbcodefirstapproach\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|solutionrelative:efdbcodefirstapproach\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|c:\\users\\admin\\desktop\\code\\efdbcodefirstapproach\\efdbcodefirstapproach\\migrations\\20250813103326_insertversion_1.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5221FED3-7463-4E0E-B593-982FF503C441}|EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj|solutionrelative:efdbcodefirstapproach\\migrations\\20250813103326_insertversion_1.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\Dto.cs",
+              "RelativeDocumentMoniker": "EFDBCodeFirstApproach\\Dto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\Dto.cs",
+              "RelativeToolTip": "EFDBCodeFirstApproach\\Dto.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T05:01:50.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StdWithGradeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\DTO\\StdWithGradeDTO.cs",
+              "RelativeDocumentMoniker": "EFDBCodeFirstApproach\\DTO\\StdWithGradeDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\DTO\\StdWithGradeDTO.cs",
+              "RelativeToolTip": "EFDBCodeFirstApproach\\DTO\\StdWithGradeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T04:57:21.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFDBCodeFirstApproach.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj",
+              "RelativeDocumentMoniker": "EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj",
+              "RelativeToolTip": "EFDBCodeFirstApproach\\EFDBCodeFirstApproach.csproj",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAawBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T10:51:03.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolDAL.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\Services\\SchoolDAL.cs",
+              "RelativeDocumentMoniker": "EFDBCodeFirstApproach\\Services\\SchoolDAL.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\Services\\SchoolDAL.cs",
+              "RelativeToolTip": "EFDBCodeFirstApproach\\Services\\SchoolDAL.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAtwGEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:13:21.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\Program.cs",
+              "RelativeDocumentMoniker": "EFDBCodeFirstApproach\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\Program.cs",
+              "RelativeToolTip": "EFDBCodeFirstApproach\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAD4vy4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:52:05.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "EFDBCodeFirstApproach\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\Models\\Student.cs",
+              "RelativeToolTip": "EFDBCodeFirstApproach\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:55:10.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "EFDBCodeFirstApproach\\Models\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "EFDBCodeFirstApproach\\Models\\StudentDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:59:16.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "EFDBCodeFirstApproach\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\Models\\Grade.cs",
+              "RelativeToolTip": "EFDBCodeFirstApproach\\Models\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:55:47.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250813103326_InsertVersion_1.0.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\Migrations\\20250813103326_InsertVersion_1.0.cs",
+              "RelativeDocumentMoniker": "EFDBCodeFirstApproach\\Migrations\\20250813103326_InsertVersion_1.0.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\EFDBCodeFirstApproach\\EFDBCodeFirstApproach\\Migrations\\20250813103326_InsertVersion_1.0.cs",
+              "RelativeToolTip": "EFDBCodeFirstApproach\\Migrations\\20250813103326_InsertVersion_1.0.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:33:26.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

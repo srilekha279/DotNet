@@ -1,0 +1,6 @@
+@IdentityBasedAuthApp_HostAddress = http://localhost:5198
+
+GET {{IdentityBasedAuthApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

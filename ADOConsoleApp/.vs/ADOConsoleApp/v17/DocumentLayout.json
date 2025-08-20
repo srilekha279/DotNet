@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\code\\ADOConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06018371-F433-4B1A-85AC-FC503DAD4930}|ADOConsoleApp\\ADOConsoleApp.csproj|c:\\users\\admin\\desktop\\code\\adoconsoleapp\\adoconsoleapp\\services\\bykestoresdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06018371-F433-4B1A-85AC-FC503DAD4930}|ADOConsoleApp\\ADOConsoleApp.csproj|solutionrelative:adoconsoleapp\\services\\bykestoresdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06018371-F433-4B1A-85AC-FC503DAD4930}|ADOConsoleApp\\ADOConsoleApp.csproj|c:\\users\\admin\\desktop\\code\\adoconsoleapp\\adoconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06018371-F433-4B1A-85AC-FC503DAD4930}|ADOConsoleApp\\ADOConsoleApp.csproj|solutionrelative:adoconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06018371-F433-4B1A-85AC-FC503DAD4930}|ADOConsoleApp\\ADOConsoleApp.csproj|c:\\users\\admin\\desktop\\code\\adoconsoleapp\\adoconsoleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06018371-F433-4B1A-85AC-FC503DAD4930}|ADOConsoleApp\\ADOConsoleApp.csproj|solutionrelative:adoconsoleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06018371-F433-4B1A-85AC-FC503DAD4930}|ADOConsoleApp\\ADOConsoleApp.csproj|c:\\users\\admin\\desktop\\code\\adoconsoleapp\\adoconsoleapp\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06018371-F433-4B1A-85AC-FC503DAD4930}|ADOConsoleApp\\ADOConsoleApp.csproj|solutionrelative:adoconsoleapp\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06018371-F433-4B1A-85AC-FC503DAD4930}|ADOConsoleApp\\ADOConsoleApp.csproj|c:\\users\\admin\\desktop\\code\\adoconsoleapp\\adoconsoleapp\\mydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06018371-F433-4B1A-85AC-FC503DAD4930}|ADOConsoleApp\\ADOConsoleApp.csproj|solutionrelative:adoconsoleapp\\mydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BykeStoresDAL.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\ADOConsoleApp\\ADOConsoleApp\\Services\\BykeStoresDAL.cs",
+              "RelativeDocumentMoniker": "ADOConsoleApp\\Services\\BykeStoresDAL.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\ADOConsoleApp\\ADOConsoleApp\\Services\\BykeStoresDAL.cs",
+              "RelativeToolTip": "ADOConsoleApp\\Services\\BykeStoresDAL.cs",
+              "ViewState": "AQIAAGkBAAAAAAAAAAAgwGsBAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T08:21:52.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\ADOConsoleApp\\ADOConsoleApp\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "ADOConsoleApp\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\ADOConsoleApp\\ADOConsoleApp\\Models\\Staff.cs",
+              "RelativeToolTip": "ADOConsoleApp\\Models\\Staff.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAMwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T08:16:05.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyData.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\ADOConsoleApp\\ADOConsoleApp\\MyData.cs",
+              "RelativeDocumentMoniker": "ADOConsoleApp\\MyData.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\ADOConsoleApp\\ADOConsoleApp\\MyData.cs",
+              "RelativeToolTip": "ADOConsoleApp\\MyData.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAqwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T08:26:18.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\ADOConsoleApp\\ADOConsoleApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ADOConsoleApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\ADOConsoleApp\\ADOConsoleApp\\appsettings.json",
+              "RelativeToolTip": "ADOConsoleApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T04:57:03.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\ADOConsoleApp\\ADOConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ADOConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\ADOConsoleApp\\ADOConsoleApp\\Program.cs",
+              "RelativeToolTip": "ADOConsoleApp\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T04:48:21.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

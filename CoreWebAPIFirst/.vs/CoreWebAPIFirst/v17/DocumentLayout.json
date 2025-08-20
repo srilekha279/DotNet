@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|c:\\users\\admin\\desktop\\code\\corewebapifirst\\corewebapifirst\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|solutionrelative:corewebapifirst\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|c:\\users\\admin\\desktop\\code\\corewebapifirst\\corewebapifirst\\controllers\\staffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|solutionrelative:corewebapifirst\\controllers\\staffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|c:\\users\\admin\\desktop\\code\\corewebapifirst\\corewebapifirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|solutionrelative:corewebapifirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|c:\\users\\admin\\desktop\\code\\corewebapifirst\\corewebapifirst\\models\\bykestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|solutionrelative:corewebapifirst\\models\\bykestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|c:\\users\\admin\\desktop\\code\\corewebapifirst\\corewebapifirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|solutionrelative:corewebapifirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|c:\\users\\admin\\desktop\\code\\corewebapifirst\\corewebapifirst\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|solutionrelative:corewebapifirst\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|c:\\users\\admin\\desktop\\code\\corewebapifirst\\corewebapifirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|solutionrelative:corewebapifirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|c:\\users\\admin\\desktop\\code\\corewebapifirst\\corewebapifirst\\corewebapifirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|solutionrelative:corewebapifirst\\corewebapifirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|c:\\users\\admin\\desktop\\code\\corewebapifirst\\corewebapifirst\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|solutionrelative:corewebapifirst\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|c:\\users\\admin\\desktop\\code\\corewebapifirst\\corewebapifirst\\corewebapifirst.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0D965037-9D55-4CEA-93EB-CB514FF94DFA}|CoreWebAPIFirst\\CoreWebAPIFirst.csproj|solutionrelative:corewebapifirst\\corewebapifirst.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\Program.cs",
+              "RelativeDocumentMoniker": "CoreWebAPIFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\Program.cs",
+              "RelativeToolTip": "CoreWebAPIFirst\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:58:38.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BykeStoresContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\Models\\BykeStoresContext.cs",
+              "RelativeDocumentMoniker": "CoreWebAPIFirst\\Models\\BykeStoresContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\Models\\BykeStoresContext.cs",
+              "RelativeToolTip": "CoreWebAPIFirst\\Models\\BykeStoresContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:58:33.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "CoreWebAPIFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\appsettings.json",
+              "RelativeToolTip": "CoreWebAPIFirst\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T05:57:18.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\Controllers\\StaffsController.cs",
+              "RelativeDocumentMoniker": "CoreWebAPIFirst\\Controllers\\StaffsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\Controllers\\StaffsController.cs",
+              "RelativeToolTip": "CoreWebAPIFirst\\Controllers\\StaffsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:08:00.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\Services\\StaffService.cs",
+              "RelativeDocumentMoniker": "CoreWebAPIFirst\\Services\\StaffService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\Services\\StaffService.cs",
+              "RelativeToolTip": "CoreWebAPIFirst\\Services\\StaffService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:14:41.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "CoreWebAPIFirst\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\Models\\Staff.cs",
+              "RelativeToolTip": "CoreWebAPIFirst\\Models\\Staff.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:55:07.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoreWebAPIFirst\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CoreWebAPIFirst\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:39:49.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoreWebAPIFirst.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\CoreWebAPIFirst.csproj",
+              "RelativeDocumentMoniker": "CoreWebAPIFirst\\CoreWebAPIFirst.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\CoreWebAPIFirst.csproj",
+              "RelativeToolTip": "CoreWebAPIFirst\\CoreWebAPIFirst.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-14T09:10:42.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CoreWebAPIFirst\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CoreWebAPIFirst\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAABRwCEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T06:32:41.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoreWebAPIFirst.http",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\CoreWebAPIFirst.http",
+              "RelativeDocumentMoniker": "CoreWebAPIFirst\\CoreWebAPIFirst.http",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\CoreWebAPIFirst\\CoreWebAPIFirst\\CoreWebAPIFirst.http",
+              "RelativeToolTip": "CoreWebAPIFirst\\CoreWebAPIFirst.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-14T06:41:06.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

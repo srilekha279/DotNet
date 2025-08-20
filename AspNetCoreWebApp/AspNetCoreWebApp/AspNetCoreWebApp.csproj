@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\HomeController.cs" />
+    <Content Remove="wwwroot\HomeControllerstatic.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="wwwroot\HomeController.cs" />
+    <Compile Include="wwwroot\HomeControllerstatic.cs" />
+  </ItemGroup>
+
+</Project>

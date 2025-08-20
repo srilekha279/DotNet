@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4wFe6uoj2Wm9hzoVMH/67iDNWM6q8JA0a/THuc+A4K8=",
+  "Source": "BasicAuthWebApi",
+  "BasePath": "_content/BasicAuthWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

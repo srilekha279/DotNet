@@ -13,9 +13,19 @@ namespace MyCollectionsApp
         public int Age { get; set; }
         public string Email { get; set; }
         public List<string>Programming { get; set; }
-        //public static 
 
-    }
+        public static List<LinqStudent> GetStudents()
+        {
+            return new List<LinqStudent>()
+            {
+                new LinqStudent() { StudentId = 1, StudentName = "Priya", Age = 19, Email = "priya228@gmail.com", Programming = new List<string>() {"C", "C++", "Java" } } 
+            };
+        }
+     }
+            
+        
+
+    
     class LinqMany
     {
         public static void MySelectMany()
@@ -23,5 +33,6 @@ namespace MyCollectionsApp
 
         }
     }
+
 
 }

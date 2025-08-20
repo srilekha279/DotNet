@@ -1,0 +1,14 @@
+
+2025-08-19 21:42:02,500 INFO  BasicAuthWebApi.BasicAuthenticationHandler.? [?] - MESSAGE: BasicAuthentication was not authenticated. Failure message: Missing authentication header
+
+2025-08-19 21:42:02,505 INFO  BasicAuthWebApi.BasicAuthenticationHandler.? [?] - MESSAGE: BasicAuthentication was not authenticated. Failure message: Missing authentication header
+
+2025-08-19 21:42:02,506 INFO  BasicAuthWebApi.Controllers.WeatherForecastController.Get [28] - MESSAGE: Started logging
+
+2025-08-19 21:42:02,507 INFO  BasicAuthWebApi.Controllers.WeatherForecastController.Get [32] - MESSAGE: information log
+
+2025-08-19 21:42:02,513 WARN  BasicAuthWebApi.Controllers.WeatherForecastController.Get [33] - MESSAGE: warning log
+
+2025-08-19 21:42:02,514 ERROR BasicAuthWebApi.Controllers.WeatherForecastController.Get [34] - MESSAGE: error log
+
+2025-08-19 21:42:02,515 FATAL BasicAuthWebApi.Controllers.WeatherForecastController.Get [35] - MESSAGE: critical log

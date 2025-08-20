@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapplication1\\aspnetcorewebapplication1\\views\\grade\\getgradebyidandname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|solutionrelative:aspnetcorewebapplication1\\views\\grade\\getgradebyidandname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapplication1\\aspnetcorewebapplication1\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|solutionrelative:aspnetcorewebapplication1\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapplication1\\aspnetcorewebapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|solutionrelative:aspnetcorewebapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapplication1\\aspnetcorewebapplication1\\views\\grade\\getallgrades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|solutionrelative:aspnetcorewebapplication1\\views\\grade\\getallgrades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapplication1\\aspnetcorewebapplication1\\services\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|solutionrelative:aspnetcorewebapplication1\\services\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapplication1\\aspnetcorewebapplication1\\views\\grade\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|solutionrelative:aspnetcorewebapplication1\\views\\grade\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapplication1\\aspnetcorewebapplication1\\views\\grade\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|solutionrelative:aspnetcorewebapplication1\\views\\grade\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapplication1\\aspnetcorewebapplication1\\views\\grade\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|solutionrelative:aspnetcorewebapplication1\\views\\grade\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapplication1\\aspnetcorewebapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|solutionrelative:aspnetcorewebapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapplication1\\aspnetcorewebapplication1\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|solutionrelative:aspnetcorewebapplication1\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapplication1\\aspnetcorewebapplication1\\views\\grade\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|solutionrelative:aspnetcorewebapplication1\\views\\grade\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapplication1\\aspnetcorewebapplication1\\services\\igradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|solutionrelative:aspnetcorewebapplication1\\services\\igradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapplication1\\aspnetcorewebapplication1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|solutionrelative:aspnetcorewebapplication1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapplication1\\aspnetcorewebapplication1\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|solutionrelative:aspnetcorewebapplication1\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|c:\\users\\admin\\desktop\\code\\aspnetcorewebapplication1\\aspnetcorewebapplication1\\aspnetcorewebapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{229F32A3-CD65-4489-81CB-D15D2BEF5B16}|AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj|solutionrelative:aspnetcorewebapplication1\\aspnetcorewebapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetGradeByIdAndName.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Views\\Grade\\GetGradeByIdAndName.cshtml",
+              "RelativeDocumentMoniker": "AsPNetCoreWebApplication1\\Views\\Grade\\GetGradeByIdAndName.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Views\\Grade\\GetGradeByIdAndName.cshtml",
+              "RelativeToolTip": "AsPNetCoreWebApplication1\\Views\\Grade\\GetGradeByIdAndName.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T19:31:05.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GradeService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Services\\GradeService.cs",
+              "RelativeDocumentMoniker": "AsPNetCoreWebApplication1\\Services\\GradeService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Services\\GradeService.cs",
+              "RelativeToolTip": "AsPNetCoreWebApplication1\\Services\\GradeService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAkwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:56:46.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Controllers\\GradeController.cs",
+              "RelativeDocumentMoniker": "AsPNetCoreWebApplication1\\Controllers\\GradeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Controllers\\GradeController.cs",
+              "RelativeToolTip": "AsPNetCoreWebApplication1\\Controllers\\GradeController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAuwFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:58:20.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Views\\Grade\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AsPNetCoreWebApplication1\\Views\\Grade\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Views\\Grade\\Delete.cshtml",
+              "RelativeToolTip": "AsPNetCoreWebApplication1\\Views\\Grade\\Delete.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowBgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T17:50:59.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "AsPNetCoreWebApplication1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Models\\Student.cs",
+              "RelativeToolTip": "AsPNetCoreWebApplication1\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:44:04.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "AsPNetCoreWebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Program.cs",
+              "RelativeToolTip": "AsPNetCoreWebApplication1\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAnwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:46:09.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllGrades.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Views\\Grade\\GetAllGrades.cshtml",
+              "RelativeDocumentMoniker": "AsPNetCoreWebApplication1\\Views\\Grade\\GetAllGrades.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Views\\Grade\\GetAllGrades.cshtml",
+              "RelativeToolTip": "AsPNetCoreWebApplication1\\Views\\Grade\\GetAllGrades.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T17:01:56.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Views\\Grade\\Details.cshtml",
+              "RelativeDocumentMoniker": "AsPNetCoreWebApplication1\\Views\\Grade\\Details.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Views\\Grade\\Details.cshtml",
+              "RelativeToolTip": "AsPNetCoreWebApplication1\\Views\\Grade\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T19:11:17.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AsPNetCoreWebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AsPNetCoreWebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T18:34:13.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Views\\Grade\\Create.cshtml",
+              "RelativeDocumentMoniker": "AsPNetCoreWebApplication1\\Views\\Grade\\Create.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Views\\Grade\\Create.cshtml",
+              "RelativeToolTip": "AsPNetCoreWebApplication1\\Views\\Grade\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAlwBgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T18:36:33.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Views\\Grade\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AsPNetCoreWebApplication1\\Views\\Grade\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Views\\Grade\\Edit.cshtml",
+              "RelativeToolTip": "AsPNetCoreWebApplication1\\Views\\Grade\\Edit.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAlwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T18:46:52.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "AsPNetCoreWebApplication1\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Models\\Grade.cs",
+              "RelativeToolTip": "AsPNetCoreWebApplication1\\Models\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T09:03:32.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "AsPNetCoreWebApplication1\\Models\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "AsPNetCoreWebApplication1\\Models\\StudentDbContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAewB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:48:41.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGradeService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Services\\IGradeService.cs",
+              "RelativeDocumentMoniker": "AsPNetCoreWebApplication1\\Services\\IGradeService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\Services\\IGradeService.cs",
+              "RelativeToolTip": "AsPNetCoreWebApplication1\\Services\\IGradeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:57:47.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AsPNetCoreWebApplication1",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj",
+              "RelativeDocumentMoniker": "AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\code\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj",
+              "RelativeToolTip": "AsPNetCoreWebApplication1\\AsPNetCoreWebApplication1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-20T08:44:03.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

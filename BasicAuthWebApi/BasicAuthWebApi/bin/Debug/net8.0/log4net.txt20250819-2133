@@ -1,0 +1,11 @@
+2025-08-19 21:33:01,963 INFO  Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7161
+2025-08-19 21:33:02,048 INFO  Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5103
+2025-08-19 21:33:02,054 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+2025-08-19 21:33:02,057 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+2025-08-19 21:33:02,057 INFO  Microsoft.Hosting.Lifetime.Invoke [0] - MESSAGE: Content root path: C:\Users\admin\Desktop\code\BasicAuthWebApi\BasicAuthWebApi
+2025-08-19 21:33:13,474 INFO  BasicAuthWebApi.BasicAuthenticationHandler.? [?] - MESSAGE: BasicAuthentication was not authenticated. Failure message: Missing authentication header
+2025-08-19 21:33:13,486 INFO  BasicAuthWebApi.BasicAuthenticationHandler.? [?] - MESSAGE: BasicAuthentication was not authenticated. Failure message: Missing authentication header
+2025-08-19 21:33:13,520 INFO  BasicAuthWebApi.Controllers.WeatherForecastController.Get [29] - MESSAGE: information log
+2025-08-19 21:33:13,522 WARN  BasicAuthWebApi.Controllers.WeatherForecastController.Get [30] - MESSAGE: warning log
+2025-08-19 21:33:13,523 ERROR BasicAuthWebApi.Controllers.WeatherForecastController.Get [31] - MESSAGE: error log
+2025-08-19 21:33:13,524 FATAL BasicAuthWebApi.Controllers.WeatherForecastController.Get [32] - MESSAGE: critical log

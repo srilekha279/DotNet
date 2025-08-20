@@ -1,0 +1,12 @@
+
+2025-08-19 21:35:30,427 INFO  Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7161
+
+2025-08-19 21:35:30,472 INFO  Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5103
+
+2025-08-19 21:35:30,475 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+
+2025-08-19 21:35:30,477 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+
+2025-08-19 21:35:30,477 INFO  Microsoft.Hosting.Lifetime.Invoke [0] - MESSAGE: Content root path: C:\Users\admin\Desktop\code\BasicAuthWebApi\BasicAuthWebApi
+
+2025-08-19 21:35:44,543 INFO  Microsoft.Hosting.Lifetime.Invoke [0] - MESSAGE: Application is shutting down...

@@ -1,0 +1,2 @@
+
+2025-08-19 21:50:10,372 ERROR BasicAuthWebApi.Controllers.WeatherForecastController.Get [0] - MESSAGE: error log

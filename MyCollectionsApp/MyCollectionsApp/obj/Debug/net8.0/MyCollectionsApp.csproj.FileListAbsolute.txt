@@ -12,3 +12,4 @@ C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\obj\Debug\net8.0\r
 C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\obj\Debug\net8.0\MyCollectionsApp.pdb
 C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\obj\Debug\net8.0\MyCollectionsApp.genruntimeconfig.cache
 C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\obj\Debug\net8.0\ref\MyCollectionsApp.dll
+C:\Users\admin\Desktop\code\MyCollectionsApp\MyCollectionsApp\obj\Debug\net8.0\MyCollectionsApp.sourcelink.json

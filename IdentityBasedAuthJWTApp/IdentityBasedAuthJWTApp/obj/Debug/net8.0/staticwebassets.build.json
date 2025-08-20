@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aVNJG+q4mCr9269efXTyDTXVld33hVJZc2xJxrlhf5I=",
+  "Source": "IdentityBasedAuthApp",
+  "BasePath": "_content/IdentityBasedAuthApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
